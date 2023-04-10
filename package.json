@@ -1,15 +1,15 @@
 {
-  "name": "news-team-project",
+  "name": "NewsPage",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VolodymyrDerkach97.github.io/news-team-project",
+  "homepage": "https://TkNazarii.github.io/NewsPage",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /news-team-project/"
+    "build": "parcel build src/*.html --public-url /NewsPage/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VolodymyrDerkach97/news-team-project.git"
+    "url": "git+https://github.com/TkNazarii/NewsPage"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
